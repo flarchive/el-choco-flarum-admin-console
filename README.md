@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of el-choco/admin-console.** Not for installation: use [Packagist](https://packagist.org/packages/el-choco/admin-console) or the [upstream repository](https://github.com/el-choco/flarum-admin-console).
 
-**1** versions archived · Latest: [`v0.2.0-rc.3`](https://github.com/flarchive/el-choco-flarum-admin-console/tree/archive/v0.2.0-rc.3) · License: `MIT` · Flarum: `^1.8 || ^2.0`
+**0** versions archived · Latest: [`v0.2.0-rc.4`](https://github.com/flarchive/el-choco-flarum-admin-console/tree/archive/v0.2.0-rc.4) · License: `MIT` · Flarum: `^1.8 || ^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v0.2.0-rc.3` | 2026-11-01 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/el-choco-flarum-admin-console/tree/archive/v0.2.0-rc.3) |
+| — | — | — | — |
 
 Catalog entry: [packages/el-choco-flarum-admin-console.json](https://github.com/flarchive/archive-index/blob/main/packages/el-choco-flarum-admin-console.json)
 
